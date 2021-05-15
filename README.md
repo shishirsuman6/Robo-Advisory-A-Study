@@ -25,7 +25,7 @@ print ("Hello!")
 ```
 
 
-![Git Image](/GIT/Git-Icon-1788C.png)
+![Git Image](Git-Icon-1788C.png)
 
 
 
