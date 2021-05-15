@@ -12,3 +12,5 @@ We are doing research on a case study.
 * Transaction speeds are 10x faster than the closest competitor
 
 # What is the prognosis for this company? Where do they expect to be in the future?
+
+* They are very mediocre and will continue to be. 
