@@ -19,8 +19,9 @@ add text
 
 _Italic_
 
-###Code example
-' print ("Hello!")
+### Code example
+' 
+print ("Hello!")
 '
 
 
