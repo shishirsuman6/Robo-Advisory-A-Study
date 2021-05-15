@@ -20,9 +20,9 @@ add text
 _Italic_
 
 ### Code example
-' 
+```
 print ("Hello!")
-'
+```
 
 
 
