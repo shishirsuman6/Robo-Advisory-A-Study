@@ -8,5 +8,7 @@ We are doing research on a case study.
 
 # Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 
+* This company is a pioneer in the internation money transfer field
+* Transaction speeds are 10x faster than the closest competitor
 
 # What is the prognosis for this company? Where do they expect to be in the future?
