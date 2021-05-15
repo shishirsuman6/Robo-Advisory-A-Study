@@ -25,7 +25,7 @@ print ("Hello!")
 ```
 
 
-![Git Image](/f/_Home/Career/FinTech at UPenn/GIT/Git-Icon-1788C.png)
+![Git Image](/GIT/Git-Icon-1788C.png)
 
 
 
