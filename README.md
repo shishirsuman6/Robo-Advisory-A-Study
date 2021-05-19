@@ -2,7 +2,8 @@
 
 ## Overview and Origin
 
-* Name of company: ![Betterment](Betterment.png)
+* Name of company: 
+![Betterment](Betterment.png)
 
 * When was the company incorporated?
 
