@@ -4,7 +4,7 @@
 
 * Name of company: 
 
-    ![Betterment](Betterment.png)
+![Betterment](Betterment.png)
 
 * When was the company incorporated?
 
