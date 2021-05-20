@@ -22,6 +22,9 @@
     While economics is good at explaining the world at a macro level, it fails to explain human behavior. At a micro level, economics assumes that humans are rational, and they’re far from rational. Especially when it comes to their money; people heavily discount the future, they withdraw when markets crash, and it’s because our emotions drive our decisions."
 
 * How is the company funded? How much funding have they received?
+    - Betterment received Series A round funding from Bessemer Venture Partners in December 2010. 
+    - By October 2012, Menlo Ventures provided Series B funding along with Bessemer Venture Partners and Anthemis Group.
+    - By 2012, the company established product offerings, such as IRAs, auto-deposit, auto-rebalancing, and goal-based investing advice.
 
 
 ## Business Activities:
