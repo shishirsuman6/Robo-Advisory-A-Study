@@ -12,6 +12,9 @@
     - January 29, 2008: Betterment Holdings, Inc., the parent company, was established in Delaware.
     - April 7, 2009: Betterment, LLC was established as a Delaware corporation.
 
+    [Wikipedia][11] has more on this.
+
+[11]: <https://en.wikipedia.org/wiki/Betterment_(company)> "Wiki"
 
 * Who are the founders of the company?
     - Jon Stein, a Columbia Business School MBA graduate, and 
