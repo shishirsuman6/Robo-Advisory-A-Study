@@ -103,20 +103,34 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 * How is your company performing relative to competitors in the same domain?
+    > *"Since the bottom of the stock market in February of 2009, the average Betterment portfolio returned 214.7% – and that is after the exchange-traded fund and Betterment fees.
+    >When compared to the average private client investor, Betterment outperformed them by 78.7% in that same period.
+    >Betterment‘s average annual return over the past 5 years is 0.9% higher than their biggest competitor, Wealthfront. Simply put, Betterment delivers a strong bang for your buck."*
+    >
+    >> [Betterment Performance Review][8]
 
+[8]: <https://www.listenmoneymatters.com/betterment-review/#:~:text=Historical%20Returns%20and%20Performance,-Since%20the%20bottom&text=When%20compared%20to%20the%20average,than%20their%20biggest%20competitor%2C%20Wealthfront.> "Betterment Performance"
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+    - Energy & Carbon Trading
+    - Crypto Currency trading with a good hedging stragtegy against volatility.
 
 
 * Why do you think that offering this product or service would benefit the company?
+   - Betterment is designed to increase market participation from relatively small investors. Bringing those customers to the market where the above products are traded could increase market liquidity, thus reducing overall Risk, and could potentially improve price transparancy by guiding necessary regulations based on investor behaviours.
 
 
 * What technologies would this additional product or service utilize?
+    - Integration with Financial Data Providers, and Trading interfaces
+    - Blockchain, AI/ML    
+    - React, MongoDB, Amazon EC2, and Scala
 
 
 * Why are these technologies appropriate for your solution?
+    - Trading in Futures and Options would require Trading Strategy execution, and management of positions and margins.
+    - High Frequency Trading would be a necessity to maintain competitiveness.
 
 
 ## References
@@ -131,6 +145,7 @@ What solution does this company offer that their competitors do not or cannot of
 * https://www.betterment.com/roadmap/
 * https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf
 * https://www.nerdwallet.com/reviews/investing/advisors/betterment?scrollTo=full-review-scroll-target
+* https://www.listenmoneymatters.com/betterment-review/#:~:text=Historical%20Returns%20and%20Performance,-Since%20the%20bottom&text=When%20compared%20to%20the%20average,than%20their%20biggest%20competitor%2C%20Wealthfront.
  
 
 
