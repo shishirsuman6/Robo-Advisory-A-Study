@@ -46,7 +46,7 @@
     >>
     >>And yet, banks typically don’t help you become a better saver; they encourage holding cash at the ready for spending and sell you loans when you don’t have enough. Meanwhile, most investment managers pay little attention to your saving; they focus on larger deposits, like retirement money withheld from a paycheck. Between working with a bank and an investment manager, we, as a nation, fail to save enough for the things we need.
     >>
-    >>## The everyday American deserves a cash advisor."
+    >>### The everyday American deserves a cash advisor."
 
 [10]: <https://www.betterment.com/resources/how-banks-fail-consumers-savings/> "how-banks-fail-consumers-savings"
 
