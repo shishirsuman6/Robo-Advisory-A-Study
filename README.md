@@ -47,7 +47,7 @@ What solution does this company offer that their competitors do not or cannot of
     - Average account size has also grown to $44,000, tripling what it was in 2012.
     - The robo-advice market is expected to reach $1.26 trillion by the end of 2023, up from $283 billion in 2019, according to the research.
     - Betterment is better [because][2]
-    
+
     ![Robo-advisors](Robo-advisors.PNG)
 
 
@@ -55,15 +55,28 @@ What solution does this company offer that their competitors do not or cannot of
 [2]: <https://www.betterment.com/category/robo-advisor/> "Betterment"
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    >[Technologies used at Betterment][3]
 
+[3]: <https://stackshare.io/betterment/betterment> "Betterment Tech Stacks"
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+    - robo-advising and cash management services, and [more][4]
+
+[4]: <https://www.betterment.com/roadmap/> "Betterment Product Roadmap"
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+    - Delloite has sumemd it up [here][5]
+
+    ![Innovation_trend](Innovation_trend.PNG)
+
+[5]: <https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf> "Robo"
 
 * What are the other major companies in this domain?
+    - Per [craft.co][6], Betterment competes with SigFig, Acorns, WealthFront, and Ellevest.
+
+[6]: <https://craft.co/betterment/competitors> "Competetion"
 
 
 ## Results
@@ -93,6 +106,10 @@ What solution does this company offer that their competitors do not or cannot of
 * https://www.investmentnews.com/betterment-grows-500k-accounts-189575
 * https://www.betterment.com/category/robo-advisor/
 * https://www.investmentnews.com/betterment-grows-500k-accounts-189575
+* https://stackshare.io/betterment/betterment
+* https://www.betterment.com/roadmap/
+* https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf
+ 
 
 
 
