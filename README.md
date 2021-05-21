@@ -47,7 +47,8 @@ What solution does this company offer that their competitors do not or cannot of
     - Average account size has also grown to $44,000, tripling what it was in 2012.
     - The robo-advice market is expected to reach $1.26 trillion by the end of 2023, up from $283 billion in 2019, according to the research.
     - Betterment is better [because][2]
-    ![Robo-advisors](Robo-advisors.png)
+    
+    ![Robo-advisors](Robo-advisors.PNG)
 
 
 [1]: <https://www.investmentnews.com/betterment-grows-500k-accounts-189575> "Investmentnews"
