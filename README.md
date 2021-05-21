@@ -30,6 +30,16 @@
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+    >By Jon Stein
+    >
+    >>"Somewhere in between their bank and their investment manager, Americans lose out on the most important element of finance: **Saving their cash.**
+    >>
+    >>Make no mistake; your savings is what matters. It’s what matters when paying down debt. It’s what matters for starting a business. It’s what matters for securing a healthy retirement.
+    >>
+    >>And yet, banks typically don’t help you become a better saver; they encourage holding cash at the ready for spending and sell you loans when you don’t have enough. Meanwhile, most investment managers pay little attention to your saving; they focus on larger deposits, like retirement money withheld from a paycheck. Between working with a bank and an investment manager, we, as a nation, fail to save enough for the things we need.
+    >>
+    >>## The everyday American deserves a cash advisor."
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -69,5 +79,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * https://en.wikipedia.org/wiki/Betterment_(company)
 * https://www.betterment.com/resources/the-history-of-betterment/
+* https://www.betterment.com/resources/how-banks-fail-consumers-savings/
+
 
 
