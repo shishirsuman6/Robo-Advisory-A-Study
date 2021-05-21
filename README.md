@@ -19,11 +19,12 @@
 
 
 * How did the idea for the company (or project) come about?
-    >By Jon Stein
+    >Jon Stein on [Betterment's Mission: Help People Live Better][9]
     >
     >>"I started Betterment when it occurred to me that the concepts I’d learned while studying behavioral economics and biology in college could actually apply to the many mistakes I was making in managing my own investments.
     While economics is good at explaining the world at a macro level, it fails to explain human behavior. At a micro level, economics assumes that humans are rational, and they’re far from rational. Especially when it comes to their money; people heavily discount the future, they withdraw when markets crash, and it’s because our emotions drive our decisions."
 
+[9]: <https://www.betterment.com/resources/the-history-of-betterment/> "the-history-of-betterment"
 
 * How is the company funded? How much funding have they received?
     - Betterment received Series A round funding from Bessemer Venture Partners in December 2010. 
@@ -34,7 +35,7 @@
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-    >By Jon Stein
+    >Jon Stein on [how banks fail consumers savings][10]:
     >
     >>"Somewhere in between their bank and their investment manager, Americans lose out on the most important element of finance: **Saving their cash.**
     >>
@@ -44,6 +45,7 @@
     >>
     >>## The everyday American deserves a cash advisor."
 
+[10]: <https://www.betterment.com/resources/how-banks-fail-consumers-savings/> "how-banks-fail-consumers-savings"
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -74,7 +76,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-    - Delloite has sumemd it up [here][5]
+    - Delloite has summed it up [here][5]
 
     ![Innovation_trend](Innovation_trend.PNG)
 
@@ -90,9 +92,9 @@ What solution does this company offer that their competitors do not or cannot of
 ## Results
 
 * What has been the business impact of this company so far?
-    > *"Betterment is a clear leader among robo-advisors. The company offers two service options: Betterment Digital, its legacy offering, has no account minimum and charges 0.25% of assets under management annually. Betterment Premium provides unlimited phone access to certified financial planners for a 0.40% fee and a $100,000 account minimum."*
+    >[Nerdwallet][7] has reviewed **Where Betterment shines**.
     >
-    >>[Nerdwallet][7] has has reviewed **Where Betterment shines**.
+    >>*"Betterment is a clear leader among robo-advisors. The company offers two service options: Betterment Digital, its legacy offering, has no account minimum and charges 0.25% of assets under management annually. Betterment Premium provides unlimited phone access to certified financial planners for a 0.40% fee and a $100,000 account minimum."*
 
 [7]: <https://www.nerdwallet.com/reviews/investing/advisors/betterment?scrollTo=full-review-scroll-targets> "Nerdwallet on betterment"
 
@@ -103,11 +105,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 * How is your company performing relative to competitors in the same domain?
-    > *"Since the bottom of the stock market in February of 2009, the average Betterment portfolio returned 214.7% – and that is after the exchange-traded fund and Betterment fees.
-    >When compared to the average private client investor, Betterment outperformed them by 78.7% in that same period.
-    >Betterment‘s average annual return over the past 5 years is 0.9% higher than their biggest competitor, Wealthfront. Simply put, Betterment delivers a strong bang for your buck."*
+    >[Betterment Performance Review][8]
     >
-    >> [Betterment Performance Review][8]
+    >> *"Since the bottom of the stock market in February of 2009, the average Betterment portfolio returned 214.7% – and that is after the exchange-traded fund and Betterment fees.
+    >>When compared to the average private client investor, Betterment outperformed them by 78.7% in that same period.
+    >>Betterment‘s average annual return over the past 5 years is 0.9% higher than their biggest competitor, Wealthfront. Simply put, Betterment delivers a strong bang for your buck."*
 
 [8]: <https://www.listenmoneymatters.com/betterment-review/#:~:text=Historical%20Returns%20and%20Performance,-Since%20the%20bottom&text=When%20compared%20to%20the%20average,than%20their%20biggest%20competitor%2C%20Wealthfront.> "Betterment Performance"
 
