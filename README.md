@@ -30,7 +30,7 @@
 [9]: <https://www.betterment.com/resources/the-history-of-betterment/> "the-history-of-betterment"
 
 * How is the company funded? How much funding have they received?
-    - Betterment received Series A round funding from Bessemer Venture Partners in December 2010. 
+    - Per [Wikipedia][11], Betterment received Series A round funding from Bessemer Venture Partners in December 2010. 
     - By October 2012, Menlo Ventures provided Series B funding along with Bessemer Venture Partners and Anthemis Group.
     - By 2012, the company established product offerings, such as IRAs, auto-deposit, auto-rebalancing, and goal-based investing advice.
 
